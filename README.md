@@ -15,11 +15,10 @@ Portfolio professionnel présentant mon expérience en Data Engineering, mes pro
 
 ## Structure
 
-- `dist/index.html` : site statique responsive
-- `dist/cv-el-hadji-mboup-data-engineer.pdf` : CV téléchargeable
+- `index.html` : site statique responsive
+- `cv-el-hadji-mboup-data-engineer.pdf` : CV téléchargeable
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/el-hadji-mboup)
 - [GitHub](https://github.com/Elmboup)
-
