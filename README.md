@@ -11,7 +11,7 @@ Portfolio professionnel présentant mon expérience en Data Engineering, mes pro
 
 ## Voir le portfolio
 
-[el-hadji-mboup-data-engineer.elmboup.chatgpt.site](https://el-hadji-mboup-data-engineer.elmboup.chatgpt.site)
+[data-engineer-portfolio-bdg.pages.dev](https://data-engineer-portfolio-bdg.pages.dev/)
 
 ## Structure
 
